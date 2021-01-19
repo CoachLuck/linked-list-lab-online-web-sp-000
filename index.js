@@ -61,4 +61,3 @@ function deleteNodeAt(idx, list, col){
      previousNode = cNode
      cNode = next(cNode, col);
   }
-  previousNod
